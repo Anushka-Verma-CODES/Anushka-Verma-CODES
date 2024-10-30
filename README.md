@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="160" src="https://64.media.tumblr.com/a77e61f1e789f2ebb22d8d062684c2bf/tumblr_p0168gtRdI1runoqyo9_540.gifv"  />
+  <img height="290" src="https://64.media.tumblr.com/a77e61f1e789f2ebb22d8d062684c2bf/tumblr_p0168gtRdI1runoqyo9_540.gifv"  />
 </div>
 
 ###
@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anushka-Verma-CODES.Anushka-Verma-CODES&left_color=purple&right_color=palegreen&left_text=Code%20%7C%20Innovate%20%7C%20Inspire"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anushka-Verma-CODES.Anushka-Verma-CODES&left_color=purple&right_color=mediumseagreen&left_text=Code%20%7C%20Innovate%20%7C%20Inspire"  />
 </div>
 
 ###
@@ -34,11 +34,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>- 🔭 CSE Student @ Thapar Institute of Engineering <br>- 📚 Tech Member of Bakslash Computing Society</h3>
+<h3 align="left">👩‍💻  About Me <br>- 🎓 CSE Student @ Thapar Institute of Engineering <br>- ⚙️ Tech Member of Backslash Computing Society</h3>
 
 ###
 
-<p align="left">I'm from ...  Himachal Pradesh, India<br>- 🎮 Exploring the World of Games<br>- 📚 Learning APP DEVELOPMENT<br>FUN FACT - ⚡ Reality of society is funnier than the jokes</p>
+<p align="left">I'm from ...  Himachal Pradesh, India<br>- 🎮 Exploring the vast landscape of Games<br>- 📚 Learning APP DEVELOPMENT<br>FUN FACT - ⚡Reality of society is funnier than the jokes.</p>
 
 ###
 
