@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="290" src="https://64.media.tumblr.com/a77e61f1e789f2ebb22d8d062684c2bf/tumblr_p0168gtRdI1runoqyo9_540.gifv"  />
+  <img height="350" src="https://64.media.tumblr.com/a77e61f1e789f2ebb22d8d062684c2bf/tumblr_p0168gtRdI1runoqyo9_540.gifv"  />
 </div>
 
 ###
@@ -56,6 +56,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"   />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 </div>
 
 ###
