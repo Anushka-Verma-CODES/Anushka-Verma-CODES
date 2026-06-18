@@ -14,7 +14,7 @@
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
 ```yaml
 name: Anushka Verma
@@ -41,7 +41,7 @@ life_philosophy:
 
 ---
 
-# 🚀 Current Focus
+#  Current Focus
 
 <table>
 <tr>
@@ -71,7 +71,7 @@ life_philosophy:
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -95,7 +95,7 @@ life_philosophy:
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -113,7 +113,7 @@ life_philosophy:
 
 ---
 
-# 🧠 Research Interests
+#  Research Interests
 
 <div align="center">
 
@@ -130,10 +130,10 @@ life_philosophy:
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <details>
-<summary><b>🚁 UAV Swarm Trajectory Prediction & Intent Classification (Ongoing)</b></summary>
+<summary><b> UAV Swarm Trajectory Prediction & Intent Classification (Ongoing)</b></summary>
 
 <br>
 
@@ -153,7 +153,7 @@ Deep Learning framework that analyzes 3D UAV trajectories and predicts swarm int
 <br>
 
 <details>
-<summary><b>🎯 YOLO + DeepOCSORT Surveillance System</b></summary>
+<summary><b> YOLO + DeepOCSORT Surveillance System</b></summary>
 
 <br>
 
@@ -173,7 +173,7 @@ Real-time surveillance system capable of:
 <br>
 
 <details>
-<summary><b>🌴 Interactive 3D Portfolio Website</b></summary>
+<summary><b> Interactive 3D Portfolio Website</b></summary>
 
 <br>
 
@@ -192,7 +192,7 @@ Immersive jungle-themed developer portfolio featuring:
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
 🏅 AI Research Paper (Under review)
 
@@ -206,7 +206,7 @@ Immersive jungle-themed developer portfolio featuring:
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -217,7 +217,7 @@ Immersive jungle-themed developer portfolio featuring:
 ---
 
 
-# 📚 Currently Exploring
+# Currently Exploring
 
 ```text
 Machine Learning        ████████████░░░░ 80%
@@ -230,7 +230,7 @@ System Design           ██████░░░░░░░░░░ 40%
 
 ---
 
-# 💭 Developer Quote
+# Developer Quote
 
 <div align="center">
 
@@ -240,7 +240,7 @@ System Design           ██████░░░░░░░░░░ 40%
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <div align="center">
 
