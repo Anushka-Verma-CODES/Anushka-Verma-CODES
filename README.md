@@ -47,7 +47,7 @@ life_philosophy:
 <tr>
 <td width="50%">
 
-### 🔭 Building
+### Building
 
 - UAV Swarm Intelligence Systems
 - AI Surveillance Solutions
@@ -58,7 +58,7 @@ life_philosophy:
 
 <td width="50%">
 
-### 🌱 Learning
+### Learning
 
 - Advanced Deep Learning
 - MLOps & Deployment
@@ -99,9 +99,9 @@ life_philosophy:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anushka-Verma-CODES&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anushka-Verma-CODES&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Verma-CODES&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Verma-CODES&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
 </div>
 
